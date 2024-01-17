@@ -63,6 +63,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rockstar
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 0790a8b3af2aa7cf2bff40630cb46fd4,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 00a183ad441d3a448a57550c27ec636b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
